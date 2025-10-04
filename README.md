@@ -8,7 +8,6 @@
 - Backend: Node.js, Express, MongoDB ,postgresql 
 - Tools: Git, Vite ,Docker and more
 
-### 📈 GitHub Stats
 
 ### 🔥 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinemad&layout=compact&theme=radical)
