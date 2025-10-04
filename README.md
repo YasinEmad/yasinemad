@@ -16,6 +16,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![GitHub Streak](https://streak-stats.demolab.com?user=yasinemad&theme=radical&hide_border=true)
 
 
 ### 🌐 Connect with me
