@@ -19,4 +19,4 @@
 
 
 ### 🌐 Connect with me
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com)
+[LinkedIn](linkedin.com/in/yasin-emad-b4326529b) 
