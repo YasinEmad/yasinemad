@@ -32,8 +32,8 @@
 
 ### 🔥 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinemad\&layout=compact\&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinemad\&layout=compact\&theme=radical)
+](https://camo.githubusercontent.com/9f428aa243f67de75c026ff5fd7dd880dbe915df5dc61b3d1fe3895575b98c4f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d796173696e656d6164266c61796f75743d636f6d70616374267468656d653d7261646963616c)
 ![GitHub Streak](https://streak-stats.vercel.app/?user=yasinemad&theme=radical&hide_border=true)
 
 ---
