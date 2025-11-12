@@ -33,6 +33,7 @@
 ### 🔥 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinemad\&layout=compact\&theme=radical)
+
 ![GitHub Streak](https://streak-stats.vercel.app/?user=yasinemad&theme=radical&hide_border=true)
 
 ---
