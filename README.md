@@ -40,8 +40,9 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yasinemad&show_icons=true&theme=orange&hide_border=true" />
-  <img height="165" src="https://streak-stats.vercel.app/?user=yasinemad&theme=orange&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=yasinemad&theme=orange&hide_border=true" />
 </p>
+
 
 ---
 
