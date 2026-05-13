@@ -68,7 +68,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yasin-emad-b4326529b)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/yasinemad)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=vercel)](#)
 
 ---
 
